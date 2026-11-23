@@ -54,7 +54,7 @@ Python, Pandas, NumPy, Scikit-learn (Pipelines, ColumnTransformer), XGBoost, Mat
 
 ```
 ├── Task02_Loan_Approval_Prediction.ipynb   # full notebook with outputs
-└── README.md
+└── Task_02_AI_Ml_Report.pdf
 ```
 
 ## Author
